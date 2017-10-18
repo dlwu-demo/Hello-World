@@ -1,2 +1,3 @@
 Hello Git
 Studying how to use Git
+Update in Master
