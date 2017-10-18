@@ -1,5 +1,7 @@
 Hello Git
 Studying how to use Git
 Make different between master and demo branch
+Update in Master
+Updated in demo 
 
 Updated in Master
