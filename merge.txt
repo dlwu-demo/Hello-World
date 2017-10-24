@@ -1,1 +1,3 @@
 what is difference between ff and no-ff in merge operation
+
+what is difference between ff and no-ff in merge operation - 2
